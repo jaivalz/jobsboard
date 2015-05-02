@@ -13,3 +13,19 @@
  *= require_tree .
  *= require_self
  */
+
+
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+h1 {
+  margin-left: 10px;
+}
+
+.form-horizontal {
+  margin-left: 25px;
+}
+
+p {
+  margin-left: 10px;
+}
